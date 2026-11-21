@@ -2,6 +2,8 @@
 
 A Machine Learning regression project that predicts the surface roughness of a 3D-printed specimen from its printing parameters.
 
+![image alt]()
+
 ## Project Overview
 
 Surface quality is an important factor in additive manufacturing. This project uses experimental printing data to estimate surface roughness from selected process parameters.
