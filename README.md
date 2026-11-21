@@ -144,18 +144,3 @@ The notebook's Gradio section trains the Decision Tree interface model and launc
 6. Visualize actual and predicted values.
 7. Train a model for the Gradio prediction interface.
 8. Save the interface model and scaler using Joblib.
-
-## Future Improvements
-
-- Use a consistent preprocessing and model pipeline.
-- Fit preprocessing steps on training data only to avoid data leakage.
-- Tune model hyperparameters using cross-validation.
-- Connect the Gradio interface to the best-performing comparison model.
-- Add clearer input validation and feature-range guidance.
-- Deploy the interface for online access.
-
-## Author
-
-**Mohammed Umair**
-
-Feel free to explore the notebook and reach out with feedback or suggestions.
