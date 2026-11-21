@@ -2,7 +2,7 @@
 
 A Machine Learning regression project that predicts the surface roughness of a 3D-printed specimen from its printing parameters.
 
-![image alt]()
+![image alt](https://github.com/MohammedNashit81/Surface-Roughness-Prediction-of-ASA-Specimens-Bachelor-s-Thesis-/blob/83bf93866e540c749f149c5916d61a7848fe760c/Screenshot%202026-11-21%20174056.png)
 
 ## Project Overview
 
